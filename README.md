@@ -1,7 +1,7 @@
-## dictionary
+# dictionary
 
 ![1](/assets/images/demo.png)
-![2](/assets/images/demo_er.png)
+
 
 ## usage
 
